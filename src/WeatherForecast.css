@@ -1,0 +1,17 @@
+.WeatherForecast {
+  margin-top: 40px;
+  margin-bottom: 1px;
+}
+
+.WeatherForecast-icon {
+  padding: 1px;
+  margin-top: 0!important;
+}
+
+.WeatherForecast-temp {
+  font-size: 14px;
+}
+
+.WeatherForecast-min {
+  opacity: 0.6;
+}
