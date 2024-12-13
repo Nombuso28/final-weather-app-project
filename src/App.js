@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://github.com/Nombuso28"
+            href="https://github.com/Nombuso28/React-Weather"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -18,7 +18,7 @@ export default function App() {
           </a>
           and is{" "}
           <a
-            href="https://github.com/Nombuso28/react-weather-app-shecodes"
+            href="https://github.com/Nombuso28/React-Weather"
             target="_blank"
             rel="noopener noreferrer"
           >
