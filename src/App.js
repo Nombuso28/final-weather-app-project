@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://github.com/Nombuso28/React-Weather"
+            href="https://github.com/Nombuso28/weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
