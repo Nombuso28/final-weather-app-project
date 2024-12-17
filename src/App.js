@@ -31,18 +31,25 @@ function App() {
         <Weather city={city} />
       </main>
       <footer>
-        This project was coded by Karabo Lesapo and is open-sourced on{" "}
-        <a
-          href="https://github.com/Karabo-L/final_react_weather_app"
-          target="blank"
-        >
-          GitHub
-        </a>{" "}
-        and hosted on{" "}
-        <a href="https://shecodes-react-meteo-app.netlify.app/" target="blank">
-          Netlify
-        </a>
-      </footer>
+          This project was coded by{" "}
+          <a href="https://www.delac.io/" target="_blank">
+            Nombuso M Ntsele
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/Nombuso28/final-weather-app-project"
+            target="_blank"
+          >
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://suspicious-beaver-111c4d.netlify.com/"
+            target="_blank"
+          >
+            hosted on Netlify
+          </a>
+        </footer>
     </div>
   );
 }
