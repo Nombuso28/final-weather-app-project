@@ -34,7 +34,7 @@ function App() {
             This project was coded by
             <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> Nombuso Ntsele</a> and is open sourced
             <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> GitHub</a> and
-            <a href="https://soft-tiramisu-8c33c7.netlify.app/"> hosted by Netlify</a>
+            <a href="https://journeyproject.netlify.app"> hosted by Netlify</a>
         </footer>
     </div>
   );
