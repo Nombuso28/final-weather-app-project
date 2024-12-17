@@ -33,8 +33,8 @@ function App() {
       <footer>
             This project was coded by
             <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> Nombuso Ntsele</a> and is open sourced
-            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> on GitHub</a> and
-            <a href="https://nombuso.netlify.app" target="_blank" rel="noopener noreferrer"> hosted on Netlify</a>
+            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> GitHub</a> and
+            <a href="https://soft-tiramisu-8c33c7.netlify.app/"> hosted by Netlify</a>
         </footer>
     </div>
   );
