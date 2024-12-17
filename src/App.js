@@ -31,24 +31,10 @@ function App() {
         <Weather city={city} />
       </main>
       <footer>
-          This project was coded by{" "}
-          <a href="https://www.delac.io/" target="_blank">
-            Nombuso M Ntsele
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/Nombuso28/final-weather-app-project"
-            target="_blank"
-          >
-            open-sourced on GitHub
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
-            target="_blank"
-          >
-            hosted on Netlify
-          </a>
+            This project was coded by
+            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> Nombuso Ntsele</a> and is open sourced
+            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> on GitHub</a> and
+            <a href="https://nombuso.netlify.app" target="_blank" rel="noopener noreferrer"> hosted on Netlify</a>
         </footer>
     </div>
   );
