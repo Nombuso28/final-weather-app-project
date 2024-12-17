@@ -100,7 +100,7 @@ function Weather({ city }) {
             <span className="weather-app-temperature">
               {Math.round(weatherData.temperature.current)}
             </span>
-            <span className="weather-app-unit">°C| <a href="https://www.example.com/fahrenheit">°F</a></span>
+            <span className="weather-app-unit">°C | <a href="fahrenheit">°F</a></span>
           </div>
         </div>
       </div>
