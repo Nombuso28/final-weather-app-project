@@ -31,11 +31,28 @@ function App() {
         <Weather city={city} />
       </main>
       <footer>
-            This project was coded by
-            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> Nombuso Ntsele</a> and is open sourced
-            <a href="https://github.com/Nombuso28" target="_blank" rel="noopener noreferrer"> GitHub</a> and
-            <a href="https://journeyproject.netlify.app"> hosted by Netlify</a>
-        </footer>
+  This project was coded by 
+  <a 
+    href="https://github.com/Nombuso28" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Nombuso Ntsele
+  </a> 
+  and is open-sourced on 
+  <a 
+    href="https://github.com/Nombuso28" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    GitHub
+  </a>. It is hosted on 
+  <a 
+    href="https://soft-tiramisu-8c33c7.netlify.app" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Netlify
+  </a>.
+</footer>
+
     </div>
   );
 }
