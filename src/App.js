@@ -38,9 +38,9 @@ function App() {
     rel="noopener noreferrer">
     Nombuso Ntsele
   </a> 
-  and is open-sourced on 
+  and is open-sourced by 
   <a 
-    href="https://github.com/Nombuso28" 
+    href="https://github.com/Nombuso28/final-weather-app-project" 
     target="_blank" 
     rel="noopener noreferrer">
     GitHub
